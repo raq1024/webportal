@@ -15,5 +15,11 @@
     "prisma": "^5.0.0",
     "react": "latest",
     "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.22.5",
+    "@babel/plugin-syntax-jsx": "^7.25.9",
+    "eslint": "^9.23.0",
+    "eslint-plugin-react": "^7.37.4"
   }
 }
