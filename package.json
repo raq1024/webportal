@@ -7,11 +7,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "@prisma/client": "^5.0.0",
     "bcrypt": "^5.1.0",
     "jsonwebtoken": "^9.0.0",
     "next": "latest",
+    "nextjs": "^0.0.3",
     "prisma": "^5.0.0",
-    "@prisma/client": "^5.0.0",
     "react": "latest",
     "react-dom": "latest"
   }
