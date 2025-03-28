@@ -12,7 +12,7 @@ This is a basic web portal built with Next.js that provides user authentication 
 - **`/pages/api/auth/register.js`**: API route for user registration.
 - **`/pages/api/auth/login.js`**: API route for user login.
 - **`/pages/auth.js`**: Combined frontend page for user registration and login.
-- **`prisma/schema.prisma`**: Database schema for managing user data.
+- **`/prisma/schema.prisma`**: Database schema for managing user data.
 
 ## Setup Instructions
 1. Install dependencies:
@@ -38,7 +38,6 @@ To deploy the application, build it for production:
 npm run build
 npm start
 ```
-Alternatively, deploy it to a platform like [Vercel](https://vercel.com/).
 
 ## Technologies Used
 - **Next.js**: Framework for building the web application.
