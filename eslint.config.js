@@ -1,4 +1,3 @@
-import { Linter } from "eslint";
 import babelParser from "@babel/eslint-parser";
 import reactPlugin from "eslint-plugin-react";
 
