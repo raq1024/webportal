@@ -66,4 +66,4 @@ jobs:
 
       # Run ESLint
       - name: Run Linter
-        run: npx eslint . --ext .js,.jsx,.ts,.tsx
+        run: npx eslint . --ext .js,.jsx,.ts,.tsx --quiet
