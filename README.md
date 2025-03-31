@@ -1,5 +1,7 @@
 # WebPortal
 
+##JUST A TEST
+
 This is a basic web portal built with Next.js that provides user authentication functionality, including registration and login. It uses Prisma as the ORM for database management and SQLite as the database.
 
 ## Features
